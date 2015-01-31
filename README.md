@@ -1,4 +1,4 @@
-# Ingress Portal Key Auto Recylcer
+# Ingress Portal Key Auto Recycler
 Automated tool to recycle portal keys for Ingress.
 
 # Dependency

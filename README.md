@@ -17,7 +17,7 @@ Automated tool to recycle portal keys for Ingress.
 * sbt run [num_keys_to_be_recycled]
 
 
-# ingress_key_recylcer
+# 日本語
 自動でIngressのポータルキーをリサイクル
 
 # 必要なツール

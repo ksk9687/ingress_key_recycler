@@ -2,8 +2,8 @@
 Automated tool to recycle portal keys for Ingress.
 
 # Dependency
-adb
-usb debug
+* adb
+* usb debug must be enabled
 
 # Limitation
 * Only Nexus 6 is supported for now.
@@ -21,8 +21,8 @@ usb debug
 自動でIngressのポータルキーをリサイクル
 
 # 必要なツール
-adb
-usb debug
+* adb
+* usb debug を有効にしてください
 
 # 現在の制限
 * Nexus 6 のみサポート

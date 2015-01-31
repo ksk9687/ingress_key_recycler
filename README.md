@@ -14,7 +14,7 @@ Automated tool to recycle portal keys for Ingress.
 * Connect your device to PC
 * Launch ingress
 * Set the order, by Title or by Distance
-* sbt run [num_keys_to_be_recycled]
+* sbt "run [num_keys_to_be_recycled]"
 
 
 # 日本語
@@ -33,4 +33,4 @@ Automated tool to recycle portal keys for Ingress.
 * 端末をPCに接続します
 * Ingressを起動
 * by Title or by Distanceを選択
-* sbt run [num_keys_to_be_recycled]
+* sbt "run [num_keys_to_be_recycled]"
